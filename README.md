@@ -1,6 +1,8 @@
 ### Welcome to my GitHub-Profile! 👋
-I am Konrad and i am from Germany!
++Name: Konrad
++From: Germany
 ---
+
 ### Coding Experience:
 * CSS
 __________
