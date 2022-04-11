@@ -11,7 +11,7 @@
 
 ---
 
-### Experience
+### Skills:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -35,7 +35,6 @@
 
 
 <br>
-
 ---
 
 ### Stats:
@@ -45,9 +44,10 @@
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EinfachKonrad&theme=midnight-purple)
   
 <br>
+---
 
 ### Contact
-Write me an email at <a href="mailto:business@ek-dev.live">business@ek-dev.live</a>!
+Email: <a href="mailto:business@ek-dev.live">business@ek-dev.live</a>
 
 <!---
 EinfachKonrad/EinfachKonrad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
