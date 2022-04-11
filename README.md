@@ -1,13 +1,15 @@
-<img src="https://yt3.ggpht.com/ytc/AKedOLTjpED_qfV0F54aiSJBQqPme10VaDe61dZrvQOo=s512-c-k-c0x00ffffff-no-rj" alt="Loading..." style="border-radius: 15px;">
+<img src="https://yt3.ggpht.com/ytc/AKedOLTjpED_qfV0F54aiSJBQqPme10VaDe61dZrvQOo=s512-c-k-c0x00ffffff-no-rj" alt="Loading...">
 
 <a href="https://github.com/KekOnTheWorld">![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
-<a href="https://www.instagram.com/kekontheworld/">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
+<a href="https://www.instagram.com/einfach._.official/">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
 <a href="https://twitter.com/KekOnTheWorld">![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a>
 <a href="https://discord.gg/Cq2UpzeTnm">![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)</a>
 
-👋 Hi im KekOnTheWorld a german developer!
+👋 Hi im EinfachKonrad. I am a german developer!
 
 <br>
+
+---
 
 ### Experience
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -34,7 +36,9 @@
 
 <br>
 
-### Stats
+---
+
+### Stats:
 
 ![Kecky's GitHub stats](https://github-readme-stats.vercel.app/api?username=EinfachKonrad&theme=midnight-purple)
 
