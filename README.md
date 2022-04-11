@@ -36,17 +36,17 @@
 
 ### Stats
 
-![Kecky's GitHub stats](https://github-readme-stats.vercel.app/api?username=KekOnTheWorld&theme=midnight-purple)
+![Kecky's GitHub stats](https://github-readme-stats.vercel.app/api?username=EinfachKonrad&theme=midnight-purple)
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KekOnTheWorld&theme=midnight-purple)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EinfachKonrad&theme=midnight-purple)
   
 <br>
 
 ### Contact
-Write me an email at <a href="mailto:kekontheworld@gmail.com">kekontheworld@gmail.com</a>!
+Write me an email at <a href="mailto:business@ek-dev.live">business@ek-dev.live</a>!
 
 <!---
-KekOnTheWorld/KekOnTheWorld is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+EinfachKonrad/EinfachKonrad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 <br>
