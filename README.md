@@ -25,7 +25,6 @@
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
 
-<br>
 ---
 
 ### Current Projects:
@@ -38,7 +37,7 @@
 
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EinfachKonrad&theme=midnight-purple)
   
-<br>
+
 ---
 
 ### Contact
