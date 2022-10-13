@@ -3,8 +3,11 @@
 
 
 ## 🔭 I’m currently working on...
-- <a href="https://einfachmedia.eu">EinfachMedia (Development & Video Production)</a>
-- <a href="https://kresu24.de">Kresu24.de</a>
+- <a href="https://einfachmedia.eu">🎥 EinfachMedia  Productions</a>
+- <a href="https://einfachmedia.eu/dev/nexcessing">🖥 Nexcessing IT</a>
+- <a href="https://kresu24.de">📲 Kresu24.de</a>
+
+<br>
 
 ## 🌱 I’m familiar with...
 ![](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
@@ -13,6 +16,9 @@
 <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white">
 <img src="https://img.shields.io/badge/ReactJS-000000?style=for-the-badge&logo=react&logoColor=white">
 <img src="https://img.shields.io/badge/Gatsby-000000?style=for-the-badge&logo=gatsby&logoColor=white">
+<img src="https://img.shields.io/badge/Discord.JS-000000?style=for-the-badge&logo=discord&logoColor=white">
+
+<br>
 
 ## 💬 Ask me about...
 - webdesign
@@ -20,6 +26,8 @@
 - my own projects
 - collabs
 - (video production)
+
+<br>
 
 ## 📫 How to reach me...
 - Discord: EinfachKonrad#8332 ***(DMs are always open!)***
