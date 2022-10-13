@@ -1,16 +1,32 @@
-### Hi there 👋
+# Hi there, I am Konrad, a Webdev and Video Editor from germany! 👋
+<br>
 
-<!--
-**EinfachKonrad/EinfachKonrad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🔭 I’m currently working on...
+- <a href="https://einfachmedia.eu">EinfachMedia (Development & Video Production)</a>
+- <a href="https://kresu24.de">Kresu24.de</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 I’m familiar with...
+![](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/ReactJS-000000?style=for-the-badge&logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/Gatsby-000000?style=for-the-badge&logo=gatsby&logoColor=white">
+
+## 💬 Ask me about...
+- webdesign
+- js-development
+- my own projects
+- collabs
+- (video production)
+
+## 📫 How to reach me...
+- Discord: EinfachKonrad#8332 ***(DMs are always open!)***
+- Mail: <a href="mailto:development@EinfachMedia.eu">development@einfachmedia.eu</a>
+
+### Want to know more about me and my work? Visit my Website [EinfachMedia.eu/dev](https://einfachmedia.eu/dev)!
+
+<br>
+
+### ⚡ Fun fact: ...
