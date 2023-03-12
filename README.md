@@ -3,8 +3,7 @@
 
 
 ## 🔭 I’m currently working on...
-- <a href="https://einfachmedia.eu">🎥 EinfachMedia  Productions</a>
-- <a href="https://einfachmedia.eu/dev/nexcessing">🖥 Nexcessing IT</a>
+- <a href="https://einfachmedia.eu">🎥 EinfachMedia Webmedienproduktion</a>
 - <a href="https://kresu24.de">📲 Kresu24.de</a>
 
 <br>
