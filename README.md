@@ -3,8 +3,7 @@
 
 
 ## 🔭 I’m currently working on...
-- <a href="https://einfachmedia.eu">🎥 EinfachMedia Webmedienproduktion und Eventtechnik</a>
-- <a href="https://kresu24.de">📲 Kresu24.de</a>
+- smaller Things, but multible
 
 <br>
 
@@ -30,11 +29,4 @@
 <br>
 
 ## 📫 How to reach me...
-- Discord: EinfachKonrad#8332 ***(DMs are always open!)***
-- Mail: <a href="mailto:development@EinfachMedia.eu">development@einfachmedia.eu</a>
-
-### Want to know more about me and my work? Visit my Website [EinfachMedia.eu/dev](https://einfachmedia.eu/dev)!
-
-<br>
-
-### ⚡ Fun fact: ...
+- Discord: @einfachkonrad ***(DMs are always open!)***
